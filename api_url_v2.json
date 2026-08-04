@@ -11,6 +11,11 @@
       "url": "https://apidd.czssdgz.com",
       "name": "国内1",
       "enabled": true
+    },
+    {
+      "url": "https://jdforrepam.com",
+      "name": "固定1",
+      "enabled": true
     }
   ]
 }
